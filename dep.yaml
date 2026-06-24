@@ -17,5 +17,5 @@ spec:
     spec:
       containers:
       - name: c1
-        image: nginxdemos/hello
+        image: cinjith/docker_repo:97d8e1e9e24732dbd5a71ab2e79c18bc050a1429
 
