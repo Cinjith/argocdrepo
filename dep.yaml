@@ -18,5 +18,4 @@ spec:
       containers:
       - name: c1
         image: cinjith/docker_repo:7d9e2c7f091692f9fa5d65b9402f442c275032dc
-      - name: c2
-        image: cinjith/docker_repo:7d9e2c7f091692f9fa5d65b9402f442c275032dc
+    
